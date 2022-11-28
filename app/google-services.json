@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890041279584",
+    "project_id": "fir-dam-iferrerf",
+    "storage_bucket": "fir-dam-iferrerf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890041279584:android:aef04cc410b6c31269cf05",
+        "android_client_info": {
+          "package_name": "org.iesch.firebase_dam_iferrerf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890041279584-mucl7as78vkqr42vaorus7i60bnq0vod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbHIDkXU3yhFMcgG1cRxsbDrB2wdhiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890041279584-mucl7as78vkqr42vaorus7i60bnq0vod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
